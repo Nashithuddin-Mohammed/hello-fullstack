@@ -88,10 +88,10 @@ Frontend runs at: `http://localhost:3000`
 ![Frontend Success](demo/fullstack_demo.png)
 
 **🔌 Flask API Response (Backend)**
-![Backend API](screenshots/backend_demo.png)
+![Backend API](demo/backend_demo.png)
 
 **❌ Error State (Backend Offline)**
-![Error](screenshots/fullstack_error.png)
+![Error](demo/fullstack_error.png)
 
 ---
 

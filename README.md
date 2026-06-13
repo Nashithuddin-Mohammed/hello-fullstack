@@ -84,6 +84,15 @@ Frontend runs at: `http://localhost:3000`
 
 > Click the button to call the Flask API and receive a live response from the backend.
 
+**✅ Successful API Response (Frontend)**
+![Frontend Success](demo/fullstack_demo.png)
+
+**🔌 Flask API Response (Backend)**
+![Backend API](screenshots/backend_demo.png)
+
+**❌ Error State (Backend Offline)**
+![Error](screenshots/fullstack_error.png)
+
 ---
 
 ## 🧠 Concepts Learned
